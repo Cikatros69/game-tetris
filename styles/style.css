@@ -11,7 +11,7 @@
 {
 	width: 50px;
 	height: 50px;
-	background-color: blue;
+	background-color: darkred;
 	outline: 3px solid black;
 	display: inline-block;
 }
